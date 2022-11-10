@@ -1,5 +1,5 @@
 ### Olá, eu sou a Aline 👋 
-
+Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e buscando me desenvolver cada vez mais.
 
 ##
 
